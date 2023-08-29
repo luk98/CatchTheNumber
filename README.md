@@ -1,2 +1,2 @@
-# catch_the_number
+# CatchTheNumber
 Simple Android Studio Game
